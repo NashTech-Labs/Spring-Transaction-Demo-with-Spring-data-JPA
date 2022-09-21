@@ -1,0 +1,16 @@
+{
+  "passengerInfo":{
+    "name": "Rohan Mutyal",
+    "email":"rohanmutyal@gmail.com",
+    "source":"Ahmednagar",
+    "destination":"Mumbai",
+    "Destination":"12-12-2022",
+    "pickupTime":"8.0 AM",
+    "arrivalTime":"1.0 AM",
+    "fare": 10000.0
+  },
+  "paymentInfo":{
+    "accountNo":"acc1",
+    "cardType":"DEBIT"
+  }
+}
